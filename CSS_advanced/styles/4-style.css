@@ -1,4 +1,7 @@
-/* Create custom font-family variables and aplly them to body and headings*/
+/*
+Task 4: Custom font families
+Create font-family variables and apply them to body and headings.
+*/
 
 :root {
   --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
