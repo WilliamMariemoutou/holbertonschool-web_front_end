@@ -211,7 +211,7 @@ template {
   --section-header-padding: 0 0 3rem;
   --section-body-padding: 0 0 3rem;
   --section-footer-padding: 3rem 0 0;
-  --section-footer-align: center
+  --section-footer-align: center;
   --footer-padding: 5rem 0 1rem;
 }
 
@@ -263,9 +263,11 @@ a:active {
 .card-category {
   color: var(--color-primary);
 }
+
 .section {
     padding: var(--section-padding);
 }
+
 .section-header {
   text-align: var(--section-header-align);
   padding: var(--selection-header-padding);
