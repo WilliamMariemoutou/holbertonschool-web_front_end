@@ -4,8 +4,8 @@ Create font-family variables and apply them to body and headings.
 */
 
 :root {
-  --font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
-  --font-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-family-base: HelveticaNeue, Helvetica, Arial, sans-serif;
+  --font-family-title: HelveticaNeue, Helvetica, Arial, sans-serif;
 }
 
 body {
