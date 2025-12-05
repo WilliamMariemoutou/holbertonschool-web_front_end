@@ -50,11 +50,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
 a[href] {
     color: var(--text-color);
     text-decoration: none;
