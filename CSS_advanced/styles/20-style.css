@@ -221,7 +221,9 @@ template {
   --nav-item-link-hover: var(--color-primary);
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
